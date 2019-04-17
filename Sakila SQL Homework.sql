@@ -1,8 +1,6 @@
-# SQL-Project
-# This project uses SQL using MySQL
-# This MySQL script was written by Radha Mahalingam 4-14-19
-
 USE sakila;
+
+-- MySQL script written by Radha Mahalingam 4-14-19
 
 -- 1a) Display the first and last names of all actors from the table `actor`
 
